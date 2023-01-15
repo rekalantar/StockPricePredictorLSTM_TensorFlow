@@ -4,6 +4,13 @@ This is a tutorial on building a deep learning model to predict stock prices usi
 
 LSTM is a type of recurrent neural network (RNN) that is particularly well-suited for time series data, such as stock prices. LSTM networks are able to remember past information and use it to make predictions about future events. This makes them particularly powerful for predicting stock prices, as stock prices are often influenced by past events.
 
+<p align="center">
+  <img alt="Lung CT Segmentation" src="https://github.com/rekalantar/StockPricePredictorLSTM_TensorFlow/blob/main/assets/man_stock.png?raw=true" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Lung CT Segmentation" src="https://github.com/rekalantar/StockPricePredictorLSTM_TensorFlow/blob/main/assets/stock_chart.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
 In this tutorial, I will walk you through the steps of building and training an LSTM model to predict stock prices. I will start by discussing the data and how to preprocess it. I will then demonstrate how to build and train the LSTM model using TensorFlow. Finally, the trained model will be used to make predictions on new stock price data. By the end of this tutorial, you will have a working LSTM model that you can use to predict stock prices on your own.
 
 ## Result
