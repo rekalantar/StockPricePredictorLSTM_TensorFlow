@@ -6,4 +6,5 @@ LSTM is a type of recurrent neural network (RNN) that is particularly well-suite
 
 In this tutorial, I will walk you through the steps of building and training an LSTM model to predict stock prices. I will start by discussing the data and how to preprocess it. I will then demonstrate how to build and train the LSTM model using TensorFlow. Finally, the trained model will be used to make predictions on new stock price data. By the end of this tutorial, you will have a working LSTM model that you can use to predict stock prices on your own.
 
+## Result
 ![LSTM Stock Price Prediction](https://github.com/rekalantar/StockPricePredictorLSTM_TensorFlow/blob/main/assets/result.png?raw=true)
